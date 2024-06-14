@@ -31,3 +31,20 @@ let  myfunctions= function(){
     console.log("rayhaan");
 
  }
+
+
+//  return type of variables in JS
+//  number =number
+//  string =string
+//  boolean =boolean 
+//  null = Object
+//  undefined =undefined
+//  symbol =symbol
+//  bigint=bigint
+
+
+
+//  non primitive 
+//  arrays=Object
+//  functions=functions
+//  object=object
