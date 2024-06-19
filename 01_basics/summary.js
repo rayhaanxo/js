@@ -48,3 +48,8 @@ let  myfunctions= function(){
 //  arrays=Object
 //  functions=functions
 //  object=object
+  
+
+//stack(primitive) , heap (non primivitive)
+
+
